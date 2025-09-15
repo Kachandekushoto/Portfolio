@@ -341,6 +341,22 @@
         </div>
       </div>
 
+
+ <div class="portfolio-detail">
+        <p class="numb">4</p>
+        <h3>FAITHCOUNTS: WEB-BASED ENGAGEMENT SYSTEM</h3>
+        <p>
+          My capstone project, FaithCounts: Web-Based EngagementSystem, is a web application designed to help track and monitor data efficiently through a user-friendly interface. It was developed using web technologies such as HTML, CSS, JavaScript, and PHP, and it focused on improving accessibility, accuracy, and ease of use for users
+        </p>
+        <div class="tech">
+          <p> HTML, CSS, JavaScript, and PHP, MySQL</p>
+        </div>
+        <div class="live-github">
+          <a href="#"><i class="bx bx-arrow-back"></i><span>Live Project</span></a>
+          <a href="#"><i class="bx bxl-github"></i><span>GitHub Repository</span></a>
+        </div>
+      </div>
+        
       
     </div>
 
@@ -351,6 +367,7 @@
       <div class="img-item"><img src="Portfolio1.png"></div>
       <div class="img-item"><img src="Portfolio2.png"></div>
       <div class="img-item"><img src="Portfolio3.png"></div>
+      <div class="img-item"><img src="Portfolio4.png"></div>
     </div>
   </div>
   <div class="navigation">
@@ -415,5 +432,6 @@
 </body>
 
 </html>
+
 
 
